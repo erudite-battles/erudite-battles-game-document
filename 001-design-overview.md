@@ -2,9 +2,11 @@
 
 Erudite Battles is a Competitive Educational Card Game.  The player needs to build a deck with cards collected to play matches against other players.
 
-## Deck Hero
+## Deck
 
-The player choose an aligment between the ones available, initialy **Culture**, **Logic** and **Science**. These aligment will decide what kind of cards you can use to build your deck.
+The player choose an aligment between the ones available, initialy **Culture**, **Logic** and **Science** through a hero deck. These aligment will decide what kind of cards you can use to build your deck.
+
+Then the player might use some of the available cards (we grant the basic ones for free), to build an strategy.
 
 ## Matchmaking
 
