@@ -32,3 +32,7 @@ This phase is used to effectevely distribute cards, energy and resources to the 
 #### Plan
 
 During planning players will be able to play cards, each player have up to 10 seconds to play their cards. Once they have no cards or resource to play these cards
+
+#### Battle
+
+During this phase, a question will be selected based on the current algiment state and then both players will answer it at the same time.
