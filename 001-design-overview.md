@@ -37,4 +37,8 @@ During planning players will be able to play cards, each player have up to 10 se
 
 #### Battle
 
-During this phase, a question will be selected based on the current algiment state and then both players will answer it at the same time.
+During this phase, a question will be selected based on the current aligmnet state and then both players will answer it at the same time.
+
+#### Resolution
+
+This phase happens after the battle is done, will display animations around how much damage was done, if one of the players goes below 0 then the match ends. 
